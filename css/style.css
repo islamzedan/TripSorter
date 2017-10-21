@@ -1,0 +1,32 @@
+.container{
+    margin-top: 20px;
+}
+.result-div {
+    float: none;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.from-to {
+    font-size: 18px;
+    font-weight: bold;
+}
+.from-to span{
+    background-color: #fff;
+    padding: 2px;
+    border-radius: 30%
+}
+.method,.price{
+    font-size: 13px;
+}
+.way{
+    background-color: #e4e4e4;
+    padding: 10px;
+    margin: 6px;
+}
+#radioBtn .notActive{
+    color: #3276b1;
+    background-color: #fff;
+}
+.form-group{
+ overflow: hidden;   
+}
